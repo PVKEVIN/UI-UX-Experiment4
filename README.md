@@ -1,55 +1,43 @@
 # UI-UX-Experiment4
 
+Name : Kevin P
+Register number : 212224040159
+
 ## Aim:
-To Design a wireframe diagram for a generic application or website using Balsamiq
+
+To Design a wireframe diagram for a generic application or website
 
 ## Algorithm:
-1.Create Welcome/Splash Screen 
 
-2.Add logo at the top center 
-        
-3.Add welcome message under the logo
+At least 5 essential screens/pages:
 
-4.Add a "Get Started" button at the bottom 
+Welcome/Splash Screen
 
-5.Create Login/Signup Screen 
+Login/Signup Screen
 
-6.Add a title ("Login" or "Sign Up") 
+Home/Dashboard Screen
 
-7.Add text fields for email and password 
+Content/Product Listing Screen
 
-8.Add a login or sign up button 
-
-9.Add links for "Forgot Password?" and "Switch to Sign Up/Login" 
-
-10.Create Home/Dashboard Screen 
-
-11.Add a top bar with the app name or logo 
-
-12.Add a welcome message 
-
-13.Add buttons or icons for main features (like Products, Profile, Settings) 
-
-14.Create Product/Content Listing Screen 
-
-15.Add a search bar at the to 
-
-16.Add filter options (like dropdowns or checkboxes) 
-
-17.Show a list or grid of items (each with image, title, and price) 
-
-18.Add "Add to Cart" buttons under each item 
-
-19.Create Checkout/Final Action Screen 
-
-20.Add a form with fields like name, address, and payment info 
-
-21.Show a summary of selected products 
-
-22.Add a "Place Order" or "Submit" button at the bottom.
+Checkout/Contact/Final Action Screen.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3549b6f2-0608-49c1-9cb9-f50706132a7e)
+
+<img width="380" height="577" alt="image" src="https://github.com/user-attachments/assets/e066a861-a3b2-4ed2-b3e0-ab2add1d0ddd" />
+
+
+<img width="427" height="451" alt="image" src="https://github.com/user-attachments/assets/7d6ee6de-6e0d-44c5-b7de-26002378b988" />
+
+
+<img width="427" height="566" alt="image" src="https://github.com/user-attachments/assets/a626dbc7-f235-4aea-87fc-291eefeb73a3" />
+
+
+<img width="421" height="497" alt="image" src="https://github.com/user-attachments/assets/57c7850c-4a04-42e4-8661-7cbda7dab1dc" />
+
+
+<img width="432" height="835" alt="image" src="https://github.com/user-attachments/assets/7113a05c-5b4a-4aa6-95b0-fee6169da23f" />
+
 
 ## Result:
-To Design a wireframe diagram for a generic application or website using Balsamiq is completed.
+
+Designing a wireframe diagram for a generic application or website is done successfully.
